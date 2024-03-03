@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif"  />
+<h2 align="left">Goal:Way to Become a Mern Stack Developer</h2>
 
 ###
 
@@ -44,6 +44,10 @@
 
 ###
 
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif"  />
+
+###
+
 <div align="left">
   <a href="jatinyadav0808" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -58,10 +62,6 @@
 
 ###
 
-<h5 align="left">Goal:<br><br>Way to Become a Mern Stack Developer</h5>
-
-###
-
-<h5 align="left">Quotes for Developer<br><br>Behind Every Good Program, There is a frustrated Programmer.</h5>
+<h4 align="left">Behind Every Good Program, There is a frustrated Programmer.</h4>
 
 ###
