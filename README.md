@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Goal:Way to Become a Mern Stack Developer</h2>
+<h2 align="left">Goal: Way to Become a Mern Stack Developer</h2>
 
 ###
 
